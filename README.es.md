@@ -1,9 +1,9 @@
-<a href="https://jorgeress.github.io">
+<a href="https://0xjgr.github.io">
   <img src="assets/header.svg" width="100%" alt="Jorge García: malware, Linux y ciberseguridad.">
 </a>
 
 <p align="center">
-  <a href="https://jorgeress.github.io"><img src="https://img.shields.io/badge/web-jorgeress.github.io-c792ea?style=flat-square&labelColor=0b0d12" alt="Web"></a>
+  <a href="https://0xjgr.github.io"><img src="https://img.shields.io/badge/web-0xjgr.github.io-c792ea?style=flat-square&labelColor=0b0d12" alt="Web"></a>
   <a href="mailto:jgarciamartinezdev@proton.me"><img src="https://img.shields.io/badge/correo-proton.me-3ddc97?style=flat-square&labelColor=0b0d12" alt="Correo"></a>
   <a href="https://www.linkedin.com/in/jorgegarciamartinezdev"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
@@ -21,12 +21,12 @@ Ciberseguridad, Linux y ML. [English](README.md)
 ### Proyectos
 
 <p align="center">
-  <a href="https://github.com/jorgeress/crisol"><img src="assets/proyectos/crisol.webp" width="48%" alt="Crisol"></a>
-  <a href="https://github.com/jorgeress/cromatoforo"><img src="assets/proyectos/cromatoforo.webp" width="48%" alt="Cromatóforo"></a>
-  <a href="https://github.com/jorgeress/cibo"><img src="assets/proyectos/cibo.webp" width="48%" alt="CIBO"></a>
-  <a href="https://github.com/jorgeress/pinchadiscos"><img src="assets/proyectos/pinchadiscos.webp" width="48%" alt="Pinchadiscos"></a>
-  <a href="https://github.com/jorgeress/garabato"><img src="assets/proyectos/garabato.webp" width="48%" alt="Garabato"></a>
-  <a href="https://github.com/jorgeress/vitrina"><img src="assets/proyectos/vitrina.webp" width="48%" alt="Vitrina"></a>
+  <a href="https://github.com/0xjgr/crisol"><img src="assets/proyectos/crisol.webp" width="48%" alt="Crisol"></a>
+  <a href="https://github.com/0xjgr/cromatoforo"><img src="assets/proyectos/cromatoforo.webp" width="48%" alt="Cromatóforo"></a>
+  <a href="https://github.com/0xjgr/cibo"><img src="assets/proyectos/cibo.webp" width="48%" alt="CIBO"></a>
+  <a href="https://github.com/0xjgr/pinchadiscos"><img src="assets/proyectos/pinchadiscos.webp" width="48%" alt="Pinchadiscos"></a>
+  <a href="https://github.com/0xjgr/garabato"><img src="assets/proyectos/garabato.webp" width="48%" alt="Garabato"></a>
+  <a href="https://github.com/0xjgr/vitrina"><img src="assets/proyectos/vitrina.webp" width="48%" alt="Vitrina"></a>
 </p>
 
 <details>
@@ -70,16 +70,16 @@ Voz, imágenes, subtítulos y ensamblado final. Lo monté porque grabar la narra
 <summary><b>Vitrina</b>: mi colección de juegos, películas, libros y discos, de Obsidian a la web</summary>
 <br>
 
-Cada obra es una ficha en Markdown dentro de Obsidian, y se publica como web estática en [jorgeress.github.io/vitrina](https://jorgeress.github.io/vitrina/). Está explicado cómo montarte la tuya.
+Cada obra es una ficha en Markdown dentro de Obsidian, y se publica como web estática en [0xjgr.github.io/vitrina](https://0xjgr.github.io/vitrina/). Está explicado cómo montarte la tuya.
 </details>
 
-También **[PokeGAN](https://github.com/jorgeress/pokegan)**, una DCGAN entrenada desde cero durante 10.000 épocas para generar sprites de Pokémon.
+También **[PokeGAN](https://github.com/0xjgr/pokegan)**, una DCGAN entrenada desde cero durante 10.000 épocas para generar sprites de Pokémon.
 
 Ahora mismo estoy con una app que todavía es un secreto.
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgeress/jorgeress/output/serpiente-oscura.svg">
-  <img src="https://raw.githubusercontent.com/jorgeress/jorgeress/output/serpiente.svg" width="100%" alt="Una serpiente recorriendo mi gráfico de contribuciones">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xjgr/0xjgr/output/serpiente-oscura.svg">
+  <img src="https://raw.githubusercontent.com/0xjgr/0xjgr/output/serpiente.svg" width="100%" alt="Una serpiente recorriendo mi gráfico de contribuciones">
 </picture>

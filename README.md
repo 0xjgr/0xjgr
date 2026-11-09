@@ -1,9 +1,9 @@
-<a href="https://jorgeress.github.io">
+<a href="https://0xjgr.github.io">
   <img src="assets/header.svg" width="100%" alt="Jorge García: malware, Linux and cybersecurity.">
 </a>
 
 <p align="center">
-  <a href="https://jorgeress.github.io"><img src="https://img.shields.io/badge/web-jorgeress.github.io-c792ea?style=flat-square&labelColor=0b0d12" alt="Website"></a>
+  <a href="https://0xjgr.github.io"><img src="https://img.shields.io/badge/web-0xjgr.github.io-c792ea?style=flat-square&labelColor=0b0d12" alt="Website"></a>
   <a href="mailto:jgarciamartinezdev@proton.me"><img src="https://img.shields.io/badge/email-proton.me-3ddc97?style=flat-square&labelColor=0b0d12" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jorgegarciamartinezdev"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
@@ -21,12 +21,12 @@ Cybersecurity, Linux and ML. [Versión en español](README.es.md)
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/jorgeress/crisol"><img src="assets/proyectos/crisol.webp" width="48%" alt="Crisol"></a>
-  <a href="https://github.com/jorgeress/cromatoforo"><img src="assets/proyectos/cromatoforo.webp" width="48%" alt="Cromatóforo"></a>
-  <a href="https://github.com/jorgeress/cibo"><img src="assets/proyectos/cibo.webp" width="48%" alt="CIBO"></a>
-  <a href="https://github.com/jorgeress/pinchadiscos"><img src="assets/proyectos/pinchadiscos.webp" width="48%" alt="Pinchadiscos"></a>
-  <a href="https://github.com/jorgeress/garabato"><img src="assets/proyectos/garabato.webp" width="48%" alt="Garabato"></a>
-  <a href="https://github.com/jorgeress/vitrina"><img src="assets/proyectos/vitrina.webp" width="48%" alt="Vitrina"></a>
+  <a href="https://github.com/0xjgr/crisol"><img src="assets/proyectos/crisol.webp" width="48%" alt="Crisol"></a>
+  <a href="https://github.com/0xjgr/cromatoforo"><img src="assets/proyectos/cromatoforo.webp" width="48%" alt="Cromatóforo"></a>
+  <a href="https://github.com/0xjgr/cibo"><img src="assets/proyectos/cibo.webp" width="48%" alt="CIBO"></a>
+  <a href="https://github.com/0xjgr/pinchadiscos"><img src="assets/proyectos/pinchadiscos.webp" width="48%" alt="Pinchadiscos"></a>
+  <a href="https://github.com/0xjgr/garabato"><img src="assets/proyectos/garabato.webp" width="48%" alt="Garabato"></a>
+  <a href="https://github.com/0xjgr/vitrina"><img src="assets/proyectos/vitrina.webp" width="48%" alt="Vitrina"></a>
 </p>
 
 <details>
@@ -70,16 +70,16 @@ Voice, images, subtitles and final assembly. I built it because recording the na
 <summary><b>Vitrina</b>: my collection of games, films, books and albums, from Obsidian to the web</summary>
 <br>
 
-Each work is a Markdown note in Obsidian, published as a static site at [jorgeress.github.io/vitrina](https://jorgeress.github.io/vitrina/). It works as a template to build your own, in English or Spanish.
+Each work is a Markdown note in Obsidian, published as a static site at [0xjgr.github.io/vitrina](https://0xjgr.github.io/vitrina/). It works as a template to build your own, in English or Spanish.
 </details>
 
-Also **[PokeGAN](https://github.com/jorgeress/pokegan)**, a DCGAN trained from scratch for 10,000 epochs to generate Pokémon sprites.
+Also **[PokeGAN](https://github.com/0xjgr/pokegan)**, a DCGAN trained from scratch for 10,000 epochs to generate Pokémon sprites.
 
 Right now I'm building an app that's still under wraps.
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgeress/jorgeress/output/serpiente-oscura.svg">
-  <img src="https://raw.githubusercontent.com/jorgeress/jorgeress/output/serpiente.svg" width="100%" alt="A snake eating its way through my contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xjgr/0xjgr/output/serpiente-oscura.svg">
+  <img src="https://raw.githubusercontent.com/0xjgr/0xjgr/output/serpiente.svg" width="100%" alt="A snake eating its way through my contribution graph">
 </picture>
